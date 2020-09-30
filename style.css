@@ -1,8 +1,10 @@
 h1 {
-background-color:blue;
-color:white;
+  background-color:blue;
+  color:white;
 }
 
 img {
   position:center;
+  width:100px;
+  height:100px;
 }
