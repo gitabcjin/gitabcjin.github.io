@@ -3,3 +3,9 @@ h1 {
   color:white;
   text-align:center;
 }
+
+img {
+  width: 100px;
+  height: 100px;
+  align: center;
+}
